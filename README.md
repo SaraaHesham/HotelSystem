@@ -12,7 +12,7 @@ This project is a comprehensive **Hotel Management System** designed to streamli
 ## Technologies Used:  
 - **Backend**: .NET Core, Entity Framework  
 - **Database**: SQL Server with advanced stored procedures and triggers  
-- **Frontend**: HTML, CSS  
+- **Frontend**: HTML, CSS, Bootstrap  
 
 ---
 
