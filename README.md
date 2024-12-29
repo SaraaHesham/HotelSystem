@@ -14,6 +14,10 @@ This project is a comprehensive **Hotel Management System** designed to streamli
 - **Database**: SQL Server with advanced stored procedures and triggers  
 - **Frontend**: HTML, CSS, Bootstrap  
 
+## Acknowledgments:  
+Special thanks to the dedicated team and mentors who provided invaluable support during the project development process.  
+@NadaReda9
+
 ---
 
 Feel free to explore the codebase and suggest improvements. Your feedback is always welcome!
