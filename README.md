@@ -17,6 +17,7 @@ This project is a comprehensive **Hotel Management System** designed to streamli
 ## Acknowledgments:  
 Special thanks to the dedicated team and mentors who provided invaluable support during the project development process.  
 @NadaReda9
+@mariaamamdouh
 
 ---
 
